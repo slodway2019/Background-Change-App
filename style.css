@@ -6,3 +6,10 @@ body{
     min-height:100vh;
     margin: 0;
 }
+.change-button {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 50px;
+    border: 0;
+
+}
