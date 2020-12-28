@@ -16,6 +16,8 @@ function changeBG(){
     // console.log(colorString)
 
     body.style.background = colorString;
+    color.innerText = colorString;
+
 
 }
 
